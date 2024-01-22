@@ -29,4 +29,4 @@ TextUtilis comes with a range of features to empower your text-centric applicati
 #### Efficient Text Handling: Optimize text handling processes with efficient algorithms for a seamless user experience.
 
 Contributing
-We welcome contributions from the community. If you find a bug, have a feature request, or want to contribute in any way, please follow our Contribution Guidelines.
+We welcome contributions from the community. If you find a bug, have a feature request, or want to contribute in any way, please follow the Contribution Guidelines.
