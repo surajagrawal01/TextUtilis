@@ -7,7 +7,8 @@ To Visit the app: https://surajagrawal01.github.io/TextUtilis/
 
 In the project directory, you can run:
 
-###'npm install'
+### 'npm install'
+
 To install all the packages then 
 
 ### `npm start`
