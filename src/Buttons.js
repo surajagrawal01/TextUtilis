@@ -53,7 +53,7 @@ export default function Button(props){
         <div className="m-3">
             {arr.map((ele,i)=>{
                     return (
-                        <button key={i} type="button" className="btn btn-primary mx-2" onClick={ele.function} disabled={!text}>{ele.name}</button>
+                        <button key={i} type="button" className="btn btn-primary m-2" onClick={ele.function} disabled={!text}>{ele.name}</button>
                     )
             })}
         </div>

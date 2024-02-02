@@ -24,7 +24,7 @@ export default function App() {
                 <div className='m-3'>
                     <h3>Your Text Summary</h3>
                     <p>{text.trim().split(' ').length} words and {text.trim().length} characters</p>
-                    <p>{((text.trim().split(' ').length) * 0.003).toFixed(2)} minutes read</p>
+                    <p>{((text.trim().split(' ').length) * 0.004).toFixed(3)} minutes read</p>
                     <h3>Text Preview</h3>
                     {text.trim() ? <p>{text}</p> : <p>Enter something in the textbox above to preview here.</p>}
                 </div>
